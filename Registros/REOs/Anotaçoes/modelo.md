@@ -1,5 +1,5 @@
 # Nome do arquivo : ataAAAA_MM_DD.md
-- ##  ## Exemplo : ata2019_10_14.md
+- ## Exemplo : ata2019_10_14.md
   
 # Data: dia/mes/ano
 
