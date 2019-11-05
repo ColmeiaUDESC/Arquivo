@@ -8,4 +8,4 @@ Fica a cargo do gerente de projetos administrar. As responsabilidades do gerente
   - Garantir o acesso desse repositório a todos os membros do Colmeia, e somente aos membros do Colmeia, exceto ocasião extraordinária 
   - Manter o respositório atualizado com o que é produzido pelo grupo
   
-O intuito deste repositório é manter um histórico das atividades realizadas pelo Colmeia em sua plenitude, fornecendo uma base para os futuros membros do colmeia
+O intuito deste repositório é manter um histórico das atividades realizadas pelo Colmeia em sua plenitude, fornecendo uma base para os futuros membros do projeto.
