@@ -20,31 +20,10 @@ Para obter acesso à sala deve ser requisitado ao professor-coordenador do proje
 **Uso dos materiais do Colmeia:**
 **Para se fazer o uso de qualquer material é somente necessário ser membro do Colmeia, qualquer um pode usufruir da sala, materiais e computadores mesmo que seja para uso pessoal. Após o uso os materiais devem ser devolvidos a suas posições de origem de modo a não atrapalhar a organização interna. Qualquer material utilizado, fora de projetos do grupo, danificados por mal uso deve ser substituído; excluído materiais de consumo ou de valor desprezível como leds, jumpers, fusíveis.
 
-**Armários:**
-**O ambiente conta com dois armários numerados, sendo um para armazenamento de documentos e arquivos (1) e o segundo para armazenamento de componentes e materiais (2), a chave do segundo se encontra dentro de uma pequena caixa de papelão no armário de número 1 e após seu uso deve ser devolvida ao lugar de origem. Neste mesmo chaveiro encontram-se as chaves para os cadeados das maletas, ambas devem ser trancadas após o uso.
-
-    No primeiro armário se encontram as pastas:
-
-*   Arquivo Morto: Documentos anteriores a 2019.2.
-*   Catálogo de Projetos: Folhas de rosto de projeto.
-*   Pasta de Diários: Registro de diários já sumarizados.
-*   Doc. Interna: Documentos direcionados à organização do grupo.
-*   Eventos: Relacionado a eventos
-*   Pasta Fiscal: Compras feitas usando o dinheiro arrecadado pelos membros.
-
 **Diários:**
 **Todos os membros devem tirar cópia da folha de registro de diário e anexar na pasta verde que se encontra na sala preenchendo com nome e o mês de registro, essa pode ser encontrada no drive e todos os membros devem preenchê-la diariamente de forma a sumarizar nosso trabalho mensal. 
 
-Ao fim do mês é feita a conclusão, essa deve conter um resumo individual e geral do grupo, ao final de três meses e ao final de semestre são feitos os documentos de conclusão trimestral e semestral que seguem o mesmo padrão e tem o mesmo objetivo. 
-
-**Computadores:**
-Possuímos 4 máquinas na sala, numeradas de 1 a 4 com adesivos em seu gabinete. Todas possuem um usuário padrão nomeados como Colmeia, a senha de cada um é a numeração do patrimônio, também indicadas em adesivos em seu gabinete, ex:. Colmeia 01 - Senha: 121547
-
-A criação de usuários dedicados para cada membro é permitida e encorajada entretanto o uso direto no usuário original é permitida.
-
-O download de arquivos de qualquer natureza é também permitido entretanto caso seja no usuário do Colmeia é possível que ele seja deletado por engano por outro membro. O acesso a internet não é regulado, entretanto <span style="text-decoration:underline;">use o bom senso</span>. Ademais, o uso de fones de ouvido ao assistir a vídeos é importante, caso não possua converse com os membros presentes de modo a não causar problemas na sala.
-
-O acesso de convidados aos computadores deve ser sempre requisitado a um dos bolsistas do projeto e acompanhado de um membro efetivo sendo ele um bolsista ou voluntário.
+Ao fim do mês é feita a conclusão, essa deve conter um resumo individual e geral do grupo, ao final de três meses e ao final de semestre são feitos os documentos de conclusão trimestral e semestral que seguem o mesmo padrão e tem o mesmo objetivo.
 
 **Reuniões:**
 **Toda semana os membros se reúnem em uma reunião sem a presença do professor-coordenador, chamada de Reunião Extra Oficial ou **REO** e ocorre uma vez na semana em horário definido de acordo com a disponibilidade dos membros, a presença de todos é necessária. Durante as reuniões um membro é apontado para fazer anotações de maneira simplificada para que o trabalho de sumarizar a reunião seja facilitado e para que detalhes não sejam perdidos.
