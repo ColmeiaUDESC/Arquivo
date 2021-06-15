@@ -1,9 +1,9 @@
-***MANUAL DO TRAINEE***
+## Manual do Trainee
 
-**PROGRAMA DE SOCIALIZAÇÃO DE SOFTWARE E HARDWARE LIVRE - COLMEIA**
+### **PROGRAMA DE SOCIALIZAÇÃO DE SOFTWARE E HARDWARE LIVRE - COLMEIA**
 Este documento é um texto que introduz de maneira breve o funcionamento do projeto e <span style="text-decoration:underline;">t</span>ambém descreve o método de inserção do trainee no projeto.
 
-**Metodologia de funcionamento do processo de inserção:**
+### **Metodologia de funcionamento do processo de inserção:**
 Ao demonstrar interesse e ser aprovado pelos métodos seletivos necessários o aspirante deverá manifestar interesse por email no email vigente do projeto (atualmente colmeiacct@gmail.com). Este membro receberá acesso ao grupo interno do colmeia onde poderá tirar todas as dúvidas que  vir a ter com os antigos membros do projeto.
 
 No decorrer das seguintes semanas este membro irá ser inserido nos projetos trabalhando como um membro efetivo e seguindo as orientações dos bolsistas, sendo capaz de sugerir novos projetos.  
@@ -12,28 +12,28 @@ Será ministrado também a todos os aspirantes os minicursos julgados necessári
 
 Ao fim do trimestre será feita uma avaliação pelas lideranças que irá oficializar ou não a inserção do membro no projeto. 
 
-**Funcionamento da sala**
+### **Funcionamento da sala**
 Nossa sala fica no primeiro andar do Bloco F da UDESC **(F105)**, localizado na Rua Paulo Malschitzki, no campus de Joinville. Ela é destinada para uso dos membros do Colmeia, entretanto convidados acompanhados de membros são permitidos contanto que não atrapalhem as atividades de outros membros.
 
 Para obter acesso à sala deve ser requisitado ao professor-coordenador do projeto a inclusão na lista de membros com acesso a chave na secretaria do departamento. Incluso em tal lista o membro pode requisitar a chave na secretaria do segundo andar do Bloco F a qualquer momento. **(Deve-se lembrar que fazer cópias desta chave é expressamente proibido, podendo causar problemas judiciais)**.
 
-**Uso dos materiais do Colmeia:**
+### **Uso dos materiais do Colmeia:**
 **Para se fazer o uso de qualquer material é somente necessário ser membro do Colmeia, qualquer um pode usufruir da sala, materiais e computadores mesmo que seja para uso pessoal. Após o uso os materiais devem ser devolvidos a suas posições de origem de modo a não atrapalhar a organização interna. Qualquer material utilizado, fora de projetos do grupo, danificados por mal uso deve ser substituído; excluído materiais de consumo ou de valor desprezível como leds, jumpers, fusíveis.
 
-**Diários:**
+### **Diários:**
 **Todos os membros devem tirar cópia da folha de registro de diário e anexar na pasta verde que se encontra na sala preenchendo com nome e o mês de registro, essa pode ser encontrada no drive e todos os membros devem preenchê-la diariamente de forma a sumarizar nosso trabalho mensal. 
 
 Ao fim do mês é feita a conclusão, essa deve conter um resumo individual e geral do grupo, ao final de três meses e ao final de semestre são feitos os documentos de conclusão trimestral e semestral que seguem o mesmo padrão e tem o mesmo objetivo.
 
-**Reuniões:**
+### **Reuniões:**
 **Toda semana os membros se reúnem em uma reunião sem a presença do professor-coordenador, chamada de Reunião Extra Oficial ou **REO** e ocorre uma vez na semana em horário definido de acordo com a disponibilidade dos membros, a presença de todos é necessária. Durante as reuniões um membro é apontado para fazer anotações de maneira simplificada para que o trabalho de sumarizar a reunião seja facilitado e para que detalhes não sejam perdidos.
 
-**Atas:**
+### **Atas:**
 **Ao final de toda reunião fica encarregado a um membro de fazer o resumo da reunião. O documento gerado deve seguir os padrões já estabelecidos e deve ser armazenado no drive.
 
 Caso perca uma reunião é imprescindível a leitura da ata da reunião em questão.
 
-**Kanban:**
+### **Kanban:**
 O Colmeia possui um quadro de atividades físico e virtual para a organização do fluxo de trabalho do grupo. O quadro físico serve basicamente como um referencial visual do quadro virtual, que pode ser encontrado no click up.
 
 O quadro físico é composto por 7 segmentos, todos eles com um limite de máximo de post-its que podem estar presentes nesse segmento. Os post its são coloridos, de maneira que cada cor representa um tipo diferente de projeto ou tarefa: Hardware, Software, Eventos e Adm.
