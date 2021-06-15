@@ -1,4 +1,4 @@
-**MANUAL DO TRAINEE**
+***MANUAL DO TRAINEE***
 
 **PROGRAMA DE SOCIALIZAÇÃO DE SOFTWARE E HARDWARE LIVRE - COLMEIA**
 Este documento é um texto que introduz de maneira breve o funcionamento do projeto e <span style="text-decoration:underline;">t</span>ambém descreve o método de inserção do trainee no projeto.
