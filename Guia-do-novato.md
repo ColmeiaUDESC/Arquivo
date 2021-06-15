@@ -3,7 +3,7 @@
 **PROGRAMA DE SOCIALIZAÇÃO DE SOFTWARE E HARDWARE LIVRE - COLMEIA**
 Este documento é um texto que introduz de maneira breve o funcionamento do projeto e <span style="text-decoration:underline;">t</span>ambém descreve o método de inserção do trainee no projeto.
 
-**Metodologia de funcionamento do processo de inserção: **
+**Metodologia de funcionamento do processo de inserção:**
 Ao demonstrar interesse e ser aprovado pelos métodos seletivos necessários o aspirante deverá manifestar interesse por email no email vigente do projeto (atualmente colmeiacct@gmail.com). Este membro receberá acesso ao grupo interno do colmeia onde poderá tirar todas as dúvidas que  vir a ter com os antigos membros do projeto.
 
 No decorrer das seguintes semanas este membro irá ser inserido nos projetos trabalhando como um membro efetivo e seguindo as orientações dos bolsistas, sendo capaz de sugerir novos projetos.  
@@ -12,7 +12,7 @@ Será ministrado também a todos os aspirantes os minicursos julgados necessári
 
 Ao fim do trimestre será feita uma avaliação pelas lideranças que irá oficializar ou não a inserção do membro no projeto. 
 
-**Funcionamento da sala: **
+**Funcionamento da sala**
 Nossa sala fica no primeiro andar do Bloco F da UDESC **(F105)**, localizado na Rua Paulo Malschitzki, no campus de Joinville. Ela é destinada para uso dos membros do Colmeia, entretanto convidados acompanhados de membros são permitidos contanto que não atrapalhem as atividades de outros membros.
 
 Para obter acesso à sala deve ser requisitado ao professor-coordenador do projeto a inclusão na lista de membros com acesso a chave na secretaria do departamento. Incluso em tal lista o membro pode requisitar a chave na secretaria do segundo andar do Bloco F a qualquer momento. **(Deve-se lembrar que fazer cópias desta chave é expressamente proibido, podendo causar problemas judiciais)**.
