@@ -18,18 +18,18 @@ Nossa sala fica no primeiro andar do Bloco F da UDESC **(F105)**, localizado na 
 Para obter acesso à sala deve ser requisitado ao professor-coordenador do projeto a inclusão na lista de membros com acesso a chave na secretaria do departamento. Incluso em tal lista o membro pode requisitar a chave na secretaria do segundo andar do Bloco F a qualquer momento. **(Deve-se lembrar que fazer cópias desta chave é expressamente proibido, podendo causar problemas judiciais)**.
 
 ### **Uso dos materiais do Colmeia:**
-**Para se fazer o uso de qualquer material é somente necessário ser membro do Colmeia, qualquer um pode usufruir da sala, materiais e computadores mesmo que seja para uso pessoal. Após o uso os materiais devem ser devolvidos a suas posições de origem de modo a não atrapalhar a organização interna. Qualquer material utilizado, fora de projetos do grupo, danificados por mal uso deve ser substituído; excluído materiais de consumo ou de valor desprezível como leds, jumpers, fusíveis.
+Para se fazer o uso de qualquer material é somente necessário ser membro do Colmeia, qualquer um pode usufruir da sala, materiais e computadores mesmo que seja para uso pessoal. Após o uso os materiais devem ser devolvidos a suas posições de origem de modo a não atrapalhar a organização interna. Qualquer material utilizado, fora de projetos do grupo, danificados por mal uso deve ser substituído; excluído materiais de consumo ou de valor desprezível como leds, jumpers, fusíveis.
 
 ### **Diários:**
-**Todos os membros devem tirar cópia da folha de registro de diário e anexar na pasta verde que se encontra na sala preenchendo com nome e o mês de registro, essa pode ser encontrada no drive e todos os membros devem preenchê-la diariamente de forma a sumarizar nosso trabalho mensal. 
+Todos os membros devem tirar cópia da folha de registro de diário e anexar na pasta verde que se encontra na sala preenchendo com nome e o mês de registro, essa pode ser encontrada no drive e todos os membros devem preenchê-la diariamente de forma a sumarizar nosso trabalho mensal. 
 
 Ao fim do mês é feita a conclusão, essa deve conter um resumo individual e geral do grupo, ao final de três meses e ao final de semestre são feitos os documentos de conclusão trimestral e semestral que seguem o mesmo padrão e tem o mesmo objetivo.
 
 ### **Reuniões:**
-**Toda semana os membros se reúnem em uma reunião sem a presença do professor-coordenador, chamada de Reunião Extra Oficial ou **REO** e ocorre uma vez na semana em horário definido de acordo com a disponibilidade dos membros, a presença de todos é necessária. Durante as reuniões um membro é apontado para fazer anotações de maneira simplificada para que o trabalho de sumarizar a reunião seja facilitado e para que detalhes não sejam perdidos.
+Toda semana os membros se reúnem em uma reunião sem a presença do professor-coordenador, chamada de Reunião Extra Oficial ou **REO** e ocorre uma vez na semana em horário definido de acordo com a disponibilidade dos membros, a presença de todos é necessária. Durante as reuniões um membro é apontado para fazer anotações de maneira simplificada para que o trabalho de sumarizar a reunião seja facilitado e para que detalhes não sejam perdidos.
 
 ### **Atas:**
-**Ao final de toda reunião fica encarregado a um membro de fazer o resumo da reunião. O documento gerado deve seguir os padrões já estabelecidos e deve ser armazenado no drive.
+Ao final de toda reunião fica encarregado a um membro de fazer o resumo da reunião. O documento gerado deve seguir os padrões já estabelecidos e deve ser armazenado no drive.
 
 Caso perca uma reunião é imprescindível a leitura da ata da reunião em questão.
 
