@@ -11,11 +11,10 @@ O Colmeia teve início no final de 2002, através da iniciativa dos professores 
 
 ### Bolsistas
 
-![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)
-
+![João](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Joao.png)![Luciano](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Luciano.png)
 
 ### Voluntários
-![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)![Kawan](https://avatars.githubusercontent.com/u/47753585?s=96&v=4)
+![Brian](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Brian.png)![Gabriel](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Gabriel.png)![Kalyl](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Kalyl.png)![Kawan](https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/kawan.png)!
 
 
 ## Contribuindo
