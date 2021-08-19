@@ -30,8 +30,8 @@ Também é possível contribuir sem ser um membro oficial do colmeia! Você pode
 * E você pode conferir nossos vídeos no ![Youtube!](https://www.youtube.com/channel/UC51KrWL94AfGxI_4l_E7uzA)
 
 ## Apoiadores!
-- Botar selo horroroso da ODS, UDESC, FabLab
+- ODS, UDESC, FabLab
 
 ## Colaboradores
-- Opentech: Botar textinho
+- Opentech
 
