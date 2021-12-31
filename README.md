@@ -10,10 +10,14 @@ O Colmeia teve início no final de 2002, através da iniciativa dos professores 
 ## Nossos membros
 
 ### Bolsistas
-<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Joao.png" width="80"/><img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Luciano.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Gabriel.png" width="80"/>
 
 ### Voluntários
-<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Brian.png" width="80"/><img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Gabriel.png" width="80"/><img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Kalyl.png" width="80"/><img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/kawan.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Brian.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Kalyl.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/kawan.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Luciano.png" width="80"/>
+<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Joao.png" width="80"/>
 
 ## Contribuindo
 Também é possível contribuir sem ser um membro oficial do colmeia! Você pode dar uma olhada nos nossos projetos e colaborar testando e resolvendo nossas issues, como somos promotores do opensource motivamos todos a colaborar ou quem sabe só dar uma olhadinha em como funcionam as coisas por trás dos panos. Para participar do projeto oficialmente você pode entrar em contato com a gente pelo nosso email (colmeiacct@gmail.com) ou pelo ![Discord](https://discord.gg/XAqXQA77BC).
