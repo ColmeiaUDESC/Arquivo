@@ -10,8 +10,11 @@ O Colmeia teve início no final de 2002, através da iniciativa dos professores 
 ## Nossos membros
 
 ### Bolsistas
-<img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Gabriel.png" width="80"/>
-
+<div style="display:flex;flex-direction: row;">
+  <img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Gabriel.png" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/86930703?v=4" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/36304846?v=4" width="80"/>
+</div>
 ### Voluntários
 <div style="display:flex;flex-direction: row;">
   <img src="https://github.com/ColmeiaUDESC/Colmeia/blob/master/Imagens/Github/Brian.png" width="80"/>
